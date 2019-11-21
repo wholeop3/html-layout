@@ -1,0 +1,43 @@
+body, html {
+   margin: 0;
+   padding: 0;
+}
+
+.rowSize1 {
+height: 100px;
+width: 100%;
+}
+
+.rowSize2 {
+height: 200px;
+width: 100%;}
+
+.row1 {
+    background-color: gray;
+    box-sizing: border-box;
+    padding: 25px;}
+
+    .blueSquare1 {
+        background-color: lightblue;
+        height: 50px;
+        width: 50px;
+        border: 2px black solid;
+    }
+
+.row2 {
+    background-color: wheat;
+    padding: 50px;
+    box-sizing: border-box;}
+
+.row3 {
+    background-color: red;}
+
+.row4 {
+    background-color: blue;}
+
+.row5 {
+    background-color: yellow;}
+
+.row6 {
+    background-color: violet;}
+
